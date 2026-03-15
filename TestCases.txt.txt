@@ -1,0 +1,20 @@
+Test Case 1: Login with valid credentials
+Steps:
+1. Open website
+2. Enter valid username and password
+3. Click Login
+Expected result: User successfully logs in
+
+Test Case 2: Login with invalid password
+Steps:
+1. Open website
+2. Enter valid username and wrong password
+3. Click Login
+Expected result: Error message is displayed
+
+Test Case 3: Add item to cart
+Steps:
+1. Open website
+2. Select an item
+3. Click Add to Cart
+Expected result: Item is added to cart

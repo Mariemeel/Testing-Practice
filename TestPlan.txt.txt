@@ -1,0 +1,6 @@
+Testing Plan for E-commerce Website
+Scope: Test login, product selection, cart, and checkout functionality
+Testing type: Manual Functional Testing
+Testers: Marieme Elaouni
+Tools: Excel / Word / Test Cases Documentation
+Schedule: 2 hours per day for testing practice

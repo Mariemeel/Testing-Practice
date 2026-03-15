@@ -1,0 +1,14 @@
+Bug 1: Login button not working
+Steps to reproduce:
+1. Open website
+2. Enter username and password
+3. Click Login
+Actual result: Nothing happens
+Expected result: User should be logged in
+
+Bug 2: Cart does not update
+Steps to reproduce:
+1. Add item to cart
+2. Check cart quantity
+Actual result: Quantity stays 0
+Expected result: Quantity increases
